@@ -1,0 +1,13 @@
+# 預期貢獻與學術價值摘要
+
+本研究針對戶外健走與跑步服務中感測資訊、環境風險及補給決策分散的問題，提出情境感知智慧健身代理系統，整合異質資料檢索、領域知識與互動回饋，形成感測、分析、決策及回饋的閉環架構。研究預期貢獻包括四個面向。第一，建立模組化系統架構，整合GPS、步頻、氣象與地理興趣點，支援未配戴心率裝置時的運動情境服務，並明確界定運動量估算與生理疲勞判定的能力邊界。第二，提出情境約束下的補給與撤退地點推薦方法，綜合需求符合度、路線可達性及繞行成本，透過最近地點查詢與規則式基準，檢驗代理式工具協作的增益。第三，設計結合影像辨識、使用者確認與營養資料檢索的人機協作流程，分析紀錄負擔與估算誤差的取捨，並納入不確定性提示及失效降級機制。第四，於建議內容一致的條件下，比較文字、語音與三維數位人的理解效果、互動負荷及使用意願，辨識介面形式的獨立影響。學術價值在於建立跨模組協調方法、可重現的情境測試與多層次評估框架，釐清代理決策、人機確認及多模態互動的適用條件。預期成果為具可解釋性與可擴充性的系統原型；其安全效益及長期運動持續性仍須後續實證驗證。
+
+**關鍵詞：** 情境感知、智慧健身代理、系統整合、人機協作、多模態互動。
+
+---
+
+# Expected Contributions and Academic Significance
+
+This study addresses the fragmentation of sensing data, environmental risk information, and replenishment decisions in outdoor walking and running services. A context-aware AI fitness coaching system is proposed to integrate heterogeneous data retrieval, domain knowledge, and interactive feedback within a closed-loop sensing–analysis–decision–feedback architecture. Four contributions are anticipated. First, a modular architecture integrates GPS, cadence, weather information, and points of interest to support context-aware services without requiring heart-rate wearables, while explicitly distinguishing activity expenditure estimation from physiological fatigue assessment. Second, a context-constrained recommendation method is developed for replenishment and activity-exit destinations, jointly considering user requirements, route accessibility, and detour costs. Comparisons with nearest-location and rule-based baselines are designed to assess the incremental value of agent-based tool orchestration. Third, a human–AI collaborative dietary logging workflow combines food image recognition, user confirmation, and nutritional database retrieval to investigate the tradeoff between logging burden and estimation error, incorporating uncertainty communication and fallback mechanisms. Fourth, controlled comparisons of text, voice, and three-dimensional avatar interfaces, with recommendation content held constant, are designed to isolate their effects on comprehension, interaction burden, and intention to use. The academic significance lies in a cross-module coordination approach and a reproducible, multilevel evaluation framework for examining the applicability and limitations of agent-based decision-making, human–AI collaboration, and multimodal interaction. The expected outcome is an explainable and extensible system prototype; improvements in safety and long-term exercise adherence remain subject to subsequent empirical validation.
+
+**Index Terms—** Context awareness, AI fitness coaching, systems integration, human–AI collaboration, multimodal interaction.
